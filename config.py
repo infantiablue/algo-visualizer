@@ -1,0 +1,2 @@
+SPEED = 1
+ARRAY_SIZE = 10
